@@ -3,7 +3,7 @@ SS1.
 ![SS](result-calculateSum.png)
 
 SS2. 
-![SS](result-dataType.png)
+![SS](expand/screenshots/result-dataType.png)
 
 Q1. The bug was that when getting the numbers, they were considered strings, resulting in concatenation of 1 + 2 strings being 12.
 
